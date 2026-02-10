@@ -1,0 +1,11 @@
+# Entornos virtuales
+.venv/
+venv/
+
+# Archivos basura de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code
+.vscode/
