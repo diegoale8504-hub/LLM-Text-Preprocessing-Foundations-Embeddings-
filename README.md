@@ -172,12 +172,6 @@ For large-scale training, embedding and dataset preparation would be integrated 
 
 ---
 
-# Contributing
-
-Please read `CONTRIBUTING.md` for details on our code of conduct and the process for submitting pull requests.
-
----
-
 # Versioning
 
 This project follows Semantic Versioning (SemVer).
